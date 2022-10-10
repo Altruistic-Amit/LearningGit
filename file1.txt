@@ -1,1 +1,3 @@
-Updating text in file 1, coollllll
+Updating text in file 1
+
+Updated in dev-feature branch
